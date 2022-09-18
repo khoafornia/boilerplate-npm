@@ -1,6 +1,6 @@
 {
-	"author": "Khoa Tran",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Khoa Tran",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
